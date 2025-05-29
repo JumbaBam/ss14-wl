@@ -1,7 +1,7 @@
 ﻿- type: entity
   id: CyborgEndoskeleton
-  name: borg endoskeleton #WL_Workers_Renames
-  description: A frame that borgs are built on. Significantly less spooky than expected. #WL_Workers_Renames
+  name: cyborg endoskeleton
+  description: A frame that cyborgs are built on. Significantly less spooky than expected.
   components:
   - type: Clickable
   - type: InteractionOutline
